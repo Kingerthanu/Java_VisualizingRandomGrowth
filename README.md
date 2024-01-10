@@ -1,4 +1,5 @@
 #Visualizing Random Traversal
+
   A Java program using javafx GUI in order to visual random traversal amongst a given plane. This program has a button on boot-up that when pressed will ping the center of the GUI as a base point. From this base point, a random direction will be taken (up, down, left, right) and this point will be added to a path. This cycle will repeat until the path arrives at a point out of bounds of the screen then it will print it visually to the user as seen below.
 
   
