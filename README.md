@@ -1,4 +1,8 @@
-  A Java program using javafx GUI in order to visual random traversal amongst a given plane. This program has a button on boot-up that when pressed will ping the center of the GUI as a base point. From this base point, a random direction will be taken (up, down, left, right) and this point will be added to a path. This cycle will repeat until the path arrives at a point out of bounds of the screen then it will print it visually to the user as seen below.
+  A Java program using javafx GUI in order to visual random traversal amongst a given plane.
+
+<img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/b111f1ca-102c-4364-b178-b557e34c406a" alt="Cornstarch <3" width="95" height="99">
+
+ This program has a button on boot-up that when pressed will ping the center of the GUI as a base point. From this base point, a random direction will be taken (up, down, left, right) and this point will be added to a path. This cycle will repeat until the path arrives at a point out of bounds of the screen then it will print it visually to the user as seen below.
 
 ![2024-01-1000-13-49-ezgif com-optimize](https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/59c2d36c-099e-4bf4-8eb0-0c2916ee955b)
 ![bloom3](https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/73399780-b0d5-4290-a1ba-c24b7a062b94)
