@@ -9,6 +9,9 @@
 
 **The Breakdown:**
 
+  This Java Program Works With JavaFX In Order To Generate A Window.
+
+  In This Window's Scene, We Are Creating A Container In Which Contains A Trail. This Trail Will Be Defined At Runtime When We Press The Generate Button Outlined On The Window. When We Press This Button, From Origin Point (501, 501) We Will Populate Our Container By Randomly Picking A Direction To Move In, And Linking This With Our Previous Point To Make A Path Line. This Process Will Continue Indefinently Until The Algorithm Goes Outside The Bounds Of Our Window (Currently Quite Hard-Baked In Screen Size).
 
 ----------------------------------------------
 
