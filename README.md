@@ -21,6 +21,7 @@
 
 ----------------------------------------------
 
+**Features:**
 
 ![2024-01-1000-13-49-ezgif com-optimize](https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/59c2d36c-099e-4bf4-8eb0-0c2916ee955b)
 ![bloom3](https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/73399780-b0d5-4290-a1ba-c24b7a062b94)
