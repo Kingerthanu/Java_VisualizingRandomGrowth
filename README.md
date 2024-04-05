@@ -13,6 +13,12 @@
 
   In This Window's Scene, We Are Creating A Container In Which Contains A Trail. This Trail Will Be Defined At Runtime When We Press The Generate Button Outlined On The Window. When We Press This Button, From Origin Point (501, 501) We Will Populate Our Container By Randomly Picking A Direction To Move In, And Linking This With Our Previous Point To Make A Path Line. This Process Will Continue Indefinently Until The Algorithm Goes Outside The Bounds Of Our Window (Currently Quite Hard-Baked In Screen Size).
 
+  By The End Of The Algorithm, We Will Then Tell JavaFX To Draw On The Screen The Resulting Trail Made By The Random Traversal.
+
+  Theres Nothing Really Else That Occurs After This, We Can Also Redo The Trail But In The End All This Is, Is A Generic Program In Which Draws Random Machine-Generated Designs Which Is Cool But Also Quite Elementary.
+
+  This Program Taught Me A Lot About The Foundation Of Front-End Development (I.E. Our Window, The Scene Within A Window, API Callbacks, Etc.).
+
 ----------------------------------------------
 
 
