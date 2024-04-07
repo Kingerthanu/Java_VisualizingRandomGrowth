@@ -22,7 +22,15 @@
 
   This Program Taught Me A Lot About The Foundation Of Front-End Development (I.E. Our Window, The Scene Within A Window, API Callbacks, Etc.).
 
+
+
+<img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/f35caa51-9e9e-468f-80ec-ee633f666080" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/f35caa51-9e9e-468f-80ec-ee633f666080" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/f35caa51-9e9e-468f-80ec-ee633f666080" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/f35caa51-9e9e-468f-80ec-ee633f666080" alt="Cornstarch <3" width="55" height="49">
+
 ----------------------------------------------
+
+<img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/6d4ff190-340c-43f0-a301-dcba37f2f795" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/6d4ff190-340c-43f0-a301-dcba37f2f795" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/6d4ff190-340c-43f0-a301-dcba37f2f795" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/6d4ff190-340c-43f0-a301-dcba37f2f795" alt="Cornstarch <3" width="55" height="49">
+
+
 
 **Features:**
 
@@ -30,3 +38,8 @@
 ![bloom3](https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/73399780-b0d5-4290-a1ba-c24b7a062b94)
 ![bloom2](https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/7b985ccc-a7b7-44cf-b3db-91e4041071e9)
 ![bloom1](https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/ba87dc2c-e3e1-43d7-8dfe-f44cc8733405)
+
+
+
+<img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/a885244c-2e3d-4566-aff6-1f8ebe2bc450" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/a885244c-2e3d-4566-aff6-1f8ebe2bc450" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/a885244c-2e3d-4566-aff6-1f8ebe2bc450" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/a885244c-2e3d-4566-aff6-1f8ebe2bc450" alt="Cornstarch <3" width="55" height="49">
+
