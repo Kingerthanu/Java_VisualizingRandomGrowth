@@ -5,7 +5,10 @@
  This program has a button on boot-up that when pressed will ping the center of the GUI as a base point. From this base point, a random direction will be taken (up, down, left, right) and this point will be added to a path. This cycle will repeat until the path arrives at a point out of bounds of the screen then it will print it visually to the user as seen below.
 
 ----------------------------------------------
-<img src="https://github.com/Kingerthanu/CPP_FallingSand/assets/76754592/062b5dcb-16db-423a-b82c-f9137c8319e4" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/d2e318cd-2e70-464a-9020-7cf7b3442a91" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/d2e318cd-2e70-464a-9020-7cf7b3442a91" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/d2e318cd-2e70-464a-9020-7cf7b3442a91" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/d2e318cd-2e70-464a-9020-7cf7b3442a91" alt="Cornstarch <3" width="55" height="49">
+
+
+
 
 **The Breakdown:**
 
