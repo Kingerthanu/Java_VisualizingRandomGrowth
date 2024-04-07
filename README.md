@@ -41,5 +41,5 @@
 
 
 
-<img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/a885244c-2e3d-4566-aff6-1f8ebe2bc450" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/a885244c-2e3d-4566-aff6-1f8ebe2bc450" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/a885244c-2e3d-4566-aff6-1f8ebe2bc450" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/a885244c-2e3d-4566-aff6-1f8ebe2bc450" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/a885244c-2e3d-4566-aff6-1f8ebe2bc450" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/a885244c-2e3d-4566-aff6-1f8ebe2bc450" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/a885244c-2e3d-4566-aff6-1f8ebe2bc450" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/a885244c-2e3d-4566-aff6-1f8ebe2bc450" alt="Cornstarch <3" width="55" height="49">
 
