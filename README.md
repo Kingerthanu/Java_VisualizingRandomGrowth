@@ -1,3 +1,5 @@
+#Java_VisualizingRandomGrowth
+
   A Java program using javafx GUI in order to visual random traversal amongst a given plane.
 
 <img src="https://github.com/Kingerthanu/java_VisualizingRandomGrowth/assets/76754592/b111f1ca-102c-4364-b178-b557e34c406a" alt="Cornstarch <3" width="95" height="99">
