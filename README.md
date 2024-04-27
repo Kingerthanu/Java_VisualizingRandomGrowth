@@ -1,4 +1,4 @@
-#Java_VisualizingRandomGrowth
+# Java_VisualizingRandomGrowth
 
   A Java program using javafx GUI in order to visual random traversal amongst a given plane.
 
